@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kakaa2993
+- 👋 Hi, I’m kakaa2993
 - 👀 I’m interested in programming, and reading,sport....
 - 🌱 I’m currently learning Pyhton 3
 - 💞️ I’m looking to collaborate on simple python projects.
