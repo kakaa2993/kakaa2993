@@ -11,9 +11,6 @@ After switching careers from physics, I've been learning to code for several yea
 * 🧠  I'm learning Python, bash
 * 🤝  I'm open to collaborating on projects
 
-<a href="https://www.github.com/kakaa2993" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kakaa2993?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
