@@ -1,5 +1,6 @@
-- 👋 Hi, I’m kakaa2993
+- 👋 Hi
+- 🌱 I’m working with Pyhton 3, bash...
 - 👀 I’m interested in programming, and reading,sport....
-- 🌱 I’m currently learning Pyhton 3
-- 💞️ I’m looking to collaborate on simple python projects.
-- 📫 How to reach me ? --> you can do this here in gitHub or using my email: kakaa2993@gmail.com
+
+- 📫 How to reach me ? 
+-->  My email: kakaa2993@gmail.com  <--
