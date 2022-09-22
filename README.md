@@ -8,7 +8,7 @@ After switching careers from physics, I've been learning to code for several yea
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [kakaa2993@gmail.com](mailto:kakaa2993@gmail.com)
-* 🧠  I'm learning Python, bash
+* 🧠  I'm interested in Python, bash
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
