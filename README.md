@@ -6,10 +6,9 @@ Self-Taught developer
 
 After switching careers from physics, I've been learning to code for several years. I started with Linux, I have found a passion for solving problems and the challenging field.
 
-* 🌍  I'm based in Algeria
-* ✉️  You can contact me at [kakaa2993@gmail.com](mailto:kakaa2993@gmail.com)
-* 🧠  I'm interested in Python, bash
-* 🤝  I'm open to collaborating on projects
+* 💡 I love to solve problems
+* 🧠  I enjoy working with python
+* 🤝  I'm open to work
 
 ### Skills
 
