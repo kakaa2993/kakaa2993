@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Belamiri Zakarya
 ========================================================================================================================================
 
-Self-Taught developer
+Self-Taught Developer
 -----------------------------
 
 After switching careers from physics, I've been learning to code for several years. I started with Linux, I have found a passion for solving problems and the challenging field.
