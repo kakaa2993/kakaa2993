@@ -6,7 +6,7 @@ Self-Taught Developer
 
 After switching careers from physics, I've been learning to code for several years. I started with Linux, I have found a passion for solving problems and the challenging field.
 
-*  💡  &nbsp; I love to solve problems.</li>
+*  💡  &nbsp; I love solving problems.</li>
 * 🧠  I enjoy working with python.</li>
 * 🤝  I'm open to work.</li>
 
