@@ -15,7 +15,7 @@ After switching careers from physics, I've been learning to code for several yea
 
 ### Skills
 
-<p align="left">
+<p align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
