@@ -13,7 +13,7 @@ After switching careers from physics, I've been learning to code for several yea
 *   ⚡  I'm open to work.
 
 
-### Skills
+## Skills
 
 <div align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -40,17 +40,17 @@ After switching careers from physics, I've been learning to code for several yea
 </a>                                                                                                                      
 </div>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/kakaa2993" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" />
 </a>  <a href="https://www.linkedin.com/in/belamiri-zakarya/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ZakaryaBelamiri" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
-#### My GitHub Stats
+### My GitHub Stats
  <div align="center">
     <p>
-      <img align='center' src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakaa2993's GitHub stats" height="203" />
+      <img align='center' src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakaa2993's GitHub stats" height="205" />
       <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2993&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </p>
  </div>
@@ -60,7 +60,7 @@ After switching careers from physics, I've been learning to code for several yea
   <img width='760' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
-#### GitHub Commits Graph
+### GitHub Commits Graph
 <p align="center">
   
 [![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=react-dark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
