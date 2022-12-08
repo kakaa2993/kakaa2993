@@ -56,7 +56,7 @@ After switching careers from physics, I've been learning to code for several yea
     </a>
  </p>
 </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img align="center" width='700' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 [![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=react-dark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
