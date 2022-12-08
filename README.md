@@ -8,7 +8,7 @@ After switching careers from physics, I've been learning to code for several yea
 
 *   🖥️  I love solving problems
 *   🤝  I'm open to collaborating on interesting projects as a python developer
-*   ✉️  You can contact me at [kakaa2993@gmail.com](mailto:kakaa2993@gmail.com)
+*   ✉️  You can contact me at [My Email](mailto:kakaa2993@gmail.com)
 *   🚀  I enjoy working with python.
 *   ⚡  I'm open to work.
 
