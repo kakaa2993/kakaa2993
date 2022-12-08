@@ -48,14 +48,19 @@ After switching careers from physics, I've been learning to code for several yea
 ### Badges
 
 <strong>My GitHub Stats</strong>
-<div style="text-align: left">
-<a href="http://www.github.com/kakaa2993"><img src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakaa2993's GitHub stats" /></a>
+<div style="text-align: center">
+  <div style="text-align: left">
+    <a href="http://www.github.com/kakaa2993"><img src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakaa2993's GitHub stats" /></a>
 
-<a href="http://www.github.com/kakaa2993"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="http://www.github.com/kakaa2993"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  </div>
+ <div style="text-align: left">
+   <a href="https://github.com/kakaa2993" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2993&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ </div>
+</div>
 
 <strong>GitHub Commits Graph</strong>
 
 [![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=react-dark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/kakaa2993" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2993&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  </div>
+
