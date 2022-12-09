@@ -47,24 +47,14 @@ After switching careers from physics, I've been learning to code for several yea
 ## Badges
 
 ### My GitHub Stats
-| <a href="https://github.com/kakaa2993/github-readme-stats"><img align='center' src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakaa2993's GitHub stats" /></a> | <a href="https://github.com/kakaa2993/github-readme-stats"> <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2993&langs_count=5&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a> |
-| -------------- | -------------- |
-    
-
-<br>
-
 
 | <a href="https://github.com/kakaa2993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Belamiri Zakarya github stats" /></a> | <a href="https://github.com/kakaa2933/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2993&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-<br>
  <div align="center">
-  <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=D0C9C0&background=ffffff&ring=810CA8&fire=810CA8&currStreakNum=FB2576&currStreakLabel=FB2576&sideNums=810CA8&sideLabels=810CA8&dates=000000&hide_border=true" />
+    <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=D0C9C0&background=ffffff&ring=7A5FD9&fire=7A5FD9&currStreakNum=FB2576&currStreakLabel=FB2576&sideNums=7A5FD9&sideLabels=7A5FD9&dates=000000&hide_border=false" />
 </div>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kakaa2993&theme=buefy)](https://git.io/streak-stats)
 
 ### GitHub Commits Graph
 
-[![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=react-dark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=tokyo-night&stroke=ffffff&background=1c1917&ring=810CA8&fire=810CA8&currStreakNum=ffffff&currStreakLabel=810CA8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
