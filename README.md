@@ -55,6 +55,8 @@ After switching careers from physics, I've been learning to code for several yea
     </a>
  </div>
 <br>
+| <a href="https://github.com/kakaa2993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Belamiri Zakarya github stats" /></a> | <a href="https://github.com/kakaa2933/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2933&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <br>
  <div align="center">
   <img width='760' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
