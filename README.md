@@ -49,10 +49,10 @@ After switching careers from physics, I've been learning to code for several yea
 
 ### My GitHub Stats
  <div align="center">
-    <p>
+    <a href="https://github.com/kakaa2993/github-readme-stats">
       <img align='center' src="https://github-readme-stats.vercel.app/api?username=kakaa2993&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kakaa2993's GitHub stats" height="205" />
       <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaa2993&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    </p>
+    </a>
  </div>
 <br>
 <br>
