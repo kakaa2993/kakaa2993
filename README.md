@@ -60,12 +60,11 @@ After switching careers from physics, I've been learning to code for several yea
 
 <br>
  <div align="center">
-  <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=333&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=buefy" />
+  <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=D0C9C0&background=ffffff&ring=810CA8&fire=810CA8&currStreakNum=FB2576&currStreakLabel=FB2576&sideNums=810CA8&sideLabels=810CA8&dates=000000&hide_border=true" />
 </div>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kakaa2993&theme=buefy)](https://git.io/streak-stats)
 
 ### GitHub Commits Graph
-<p align="center">
+
 [![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=react-dark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
