@@ -61,10 +61,10 @@ After switching careers from physics, I've been learning to code for several yea
 
 <br>
  <div align="center">
-  <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=buefy" />
 </div>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kakaa2993&theme=blood)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kakaa2993&theme=buefy)](https://git.io/streak-stats)
 
 ### GitHub Commits Graph
 <p align="center">
