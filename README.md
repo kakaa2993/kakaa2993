@@ -44,6 +44,7 @@ After switching careers from physics, I've been learning to code for several yea
 <p align="left"> <a href="https://www.github.com/kakaa2993" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" />
 </a>  <a href="https://www.linkedin.com/in/belamiri-zakarya/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ZakaryaBelamiri" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" /></a></p>
 
+
 ## Badges
 
 ### My GitHub Stats
