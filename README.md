@@ -58,4 +58,4 @@ After switching careers from physics, I've been learning to code for several yea
 
 ### GitHub Commits Graph
 
-[![Belamiri Zakarya Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kakaa2993&theme=tokyo-night&stroke=ffffff&background=1c1917&ring=810CA8&fire=810CA8&currStreakNum=ffffff&currStreakLabel=810CA8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Belamiri Zakarya Activity](https://github-readme-activity-graph.vercel.app/graph?username=kakaa2993&theme=tokyo-night&stroke=ffffff&background=1c1917&ring=810CA8&fire=810CA8&currStreakNum=ffffff&currStreakLabel=810CA8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
