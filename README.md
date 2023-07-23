@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is BELAMIRI ZAKARYA
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=34&duration=2500&pause=500&color=7A5FD9&width=435&lines=Hi+!%E2%9C%8B;My+Name+is+BELAMIRI+ZAKARYA;I+am+a+Self-Taught+Developer)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 Self-Taught Developer
@@ -7,9 +7,9 @@ Self-Taught Developer
 After switching careers from physics, I've been learning to code for several years. I started with Linux, I have found a passion for solving problems and the challenging field.
 
 *   🧠  I love solving problems.
-*   🤝  I'm open to collaborating on interesting projects as a python developer.
+*   🤝  I'm open to collaborating on interesting projects as a Python developer.
 *   ✉️  You can contact me at [My Email](mailto:kakaa2993@gmail.com).
-*   🐍  I enjoy working with python.
+*   🐍  I enjoy working with Python.
 *   ⚡  I'm open to work.
 
 
