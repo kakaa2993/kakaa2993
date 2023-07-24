@@ -1,4 +1,8 @@
-<p href="https://git.io/typing-svg" align="center" ><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=29&duration=2500&pause=500&color=7A5FD9&width=435&lines=Hi+!%E2%9C%8B;My+Name+is+BELAMIRI+ZAKARYA;I+am+a+Self-Taught+Developer" alt="Typing SVG" /></p>
+<p align="center">
+  <a href="https://github.com/kakaa2993" >
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=29&duration=2500&pause=500&color=7A5FD9&width=435&lines=Hi+!%E2%9C%8B;My+Name+is+BELAMIRI+ZAKARYA;I+am+a+Self-Taught+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 
 Self-Taught Developer
