@@ -40,8 +40,9 @@ After switching careers from physics, I've been learning to code for several yea
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Flask" />
-  </a>                                                                                                                      
+  </a>                                                                                                                    
 </div>
+
 
 ## Socials
 
