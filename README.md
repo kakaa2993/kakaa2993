@@ -61,6 +61,7 @@ After switching careers from physics, I've been learning to code for several yea
     <img width='750' src="https://github-readme-streak-stats.herokuapp.com/?user=kakaa2993&stroke=D0C9C0&background=ffffff&ring=7A5FD9&fire=7A5FD9&currStreakNum=FB2576&currStreakLabel=FB2576&sideNums=7A5FD9&sideLabels=7A5FD9&dates=000000&hide_border=false" />
 </div>
 
+
 ### GitHub Commits Graph
 
 [![Belamiri Zakarya Activity](https://github-readme-activity-graph.vercel.app/graph?username=kakaa2993&theme=tokyo-night&stroke=ffffff&background=1c1917&ring=810CA8&fire=810CA8&currStreakNum=ffffff&currStreakLabel=810CA8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
